@@ -13,7 +13,7 @@ Sistema para cadastro de produtos de informática com interface gráfica desenvo
   - 💻 Notebooks (com tempo de bateria)
 - 📂 Categorização de produtos (Econômico, Intermediário, Premium)
 - 🔍 Validação de campos obrigatórios
-- 📊 Exibição detalhada das informações cadastradas
+
 
 ## 🛠️ Tecnologias Utilizadas
 
