@@ -4,7 +4,7 @@
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
 ![POO](https://img.shields.io/badge/Paradigma-POO-orange)
 
-Sistema para cadastro de produtos de informática com interface gráfica desenvolvido em Python como parte da atividade da cadeira de Engenharia de Software 1.
+Sistema para cadastro de produtos de informática com interface gráfica desenvolvido em Python como parte da atividade da cadeira de Algoritmos e Estruturas de Dados 1.
 
 ## 📋 Funcionalidades
 
